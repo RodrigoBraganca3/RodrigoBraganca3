@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RodrigoBragança
+- 👋 Hi, I’m Rodrigo Bragança
 - 👀 I’m interested in Data Science & Analytics
 - 🌱 I’m currently learning Python, SQL & Azure Databricks
 
